@@ -1,0 +1,60 @@
+@startmindmap
+!theme blueprint
+* SE
+** Couleur blonde
+*** Degré <= 5
+**** Wheat Beer
+***** Arôme fruits blancs
+****** Baptiste blanche
+***** Arôme agrumes
+****** Azimuth
+***** Arôme caramel
+****** Paillette
+*** Degré > 5
+**** Type Blonde
+***** Degré < 9
+****** Famille Pale Ale
+******* Servie pression
+******** Type Pale Ale pression
+********* Aromes agrumes
+********** Cuvée des Trolles
+********* Aromes épices
+********** Delirium Tremens
+******* Servie bouteille
+******** Type Pale Ale bouteille
+********* Aromes agrumes
+********** Chouffe
+********* Aromes épices
+********** Duvel
+@endminmap
+
+
+@startmindmap
+!theme united
+* SE
+**[#f7a014ff] Couleur blonde
+***[#f7a014ff] Degré <= 5
+****[#f7a014ff] Wheat Beer
+*****[#f7a014ff] Arôme fruits blancs
+******[#7a4922] Baptiste blanche
+*****[#f7a014ff] Arôme agrumes
+******[#7a4922] Azimuth
+*****[#f7a014ff] Arôme caramel
+******[#7a4922] Paillette
+***[#f7a014ff] Degré > 5
+****[#f7a014ff] Type Blonde
+*****[#f7a014ff] Degré < 9
+******[#f7a014ff] Famille Pale Ale
+*******[#f7a014ff] Servie pression
+********[#f7a014ff] Type Pale Ale pression
+*********[#f7a014ff] Aromes agrumes
+**********[#7a4922] Cuvée des Trolles
+*********[#f7a014ff] Aromes épices
+**********[#7a4922] Delirium Tremens
+*******[#f7a014ff] Servie bouteille
+********[#f7a014ff] Type Pale Ale bouteille
+*********[#f7a014ff] Aromes agrumes
+**********[#7a4922] Chouffe
+*********[#f7a014ff] Aromes épices
+**********[#7a4922] Duvel
+@endminmap

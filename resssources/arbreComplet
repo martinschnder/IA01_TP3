@@ -1,0 +1,79 @@
+@startmindmap
+!theme blueprint
+* SE
+** Couleur = blonde
+*** Degré <= 5
+**** Famille = Wheat Beer
+***** Arôme = fruits blancs
+****** Beer = Baptist blanche
+***** Arôme = agrumes
+****** Beer = Azimuth
+***** Arôme = caramel
+****** Beer = Paillette
+*** Degré > 5
+**** Type = Blonde
+***** Degré < 9
+****** Famille = Pale Ale
+******* Servie = pression
+******** Type = Pale Ale pression
+********* Aromes = agrumes
+********** Beer = Cuvée des Trolls
+********* Aromes = épices
+********** Beer = Delirium Tremens
+******* Servie = bouteille
+******** Type = Pale Ale bouteille
+********* Aromes = agrumes
+********** Beer = Chouffe
+********* Aromes = épices
+********** Beer = Duvel
+***** Degré >= 9
+****** Famille = Tripel
+******* Type = Speciale
+******** Style = Speciale Tripel
+********* Prix < 1.7
+********** Beer = Queue de Charrue
+********* Prix >= 1.7
+********** Aromes = épices
+*********** Beer = Carolus Tripel
+********** Aromes = agrumes
+*********** Beer = Tripel Karmeliet
+******* Type = Abbaye
+******** Beer = Valdieu
+
+** Couleur = ambrée
+*** Famille = IPA
+**** Région = Canada
+***** Style = Canadian IPA
+****** Beer = Castor
+**** Région = Amérique 
+***** Style = American IPA
+****** Beer = Lagunitas
+
+** Couleur = brune
+*** Degré <= 8
+**** Amertune = moyenne
+***** Beer = Chimay Rouge
+**** Amertume = forte 
+***** Beer = St Feuillen brune
+*** Degré > 8
+**** Famille = Strong Ale
+***** Amertume = moyenne 
+****** Style = Light strong ale
+******* Région = Grande-Bretagne
+******** Beer = Barbar
+******* Région = Belgique
+******** Beer = Kwak
+***** Amertume = Forte
+****** Style = Dark Stong Ale
+******* Prix < 2
+******** Beer = Chimay Bleue
+******* Prix >= 2
+******** Beer = Gulden Draak
+
+** Couleur = rouge ou Orange
+*** Style = Fruit Beer
+**** Arôme = cerise
+***** Beer = Kasteel Rouge
+**** Arôme = pêche
+***** Beer = Pêche Mel Bush
+@endminmap
